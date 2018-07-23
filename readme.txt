@@ -7,3 +7,6 @@ git branch 是很快的
 
 git 分支的合并
 
+
+我的dev 分支正在开发，有人喊我修改 bug
+
